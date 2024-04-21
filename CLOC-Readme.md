@@ -3,7 +3,6 @@ C:\Users\Max\Downloads\calculator-java-main>perl cloc .
        3 unique files.
        1 file ignored.
 
-github.com/AlDanial/cloc v 2.01  T=0.29 s (10.2 files/s, 62588.3 lines/s)
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
