@@ -1,4 +1,5 @@
 Proveravanje calculator java koda:
+
 Racunanje: 2+3, 10-5, 4*6, 12/3 **Kalkulator daje tacan rezultat.**
 
 Prioritet operacija: Na primer 2+3*4 rezultat je 14, a ne 20. **Kalikator daje tacan rezultat.**
